@@ -1,20 +1,46 @@
-<h1>I’m Abdulelah  I’m Student , Software Engineering</h1>
-<p>Developer  </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/pSWEX" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
+Hi, I'm Abdulelah 👋
+
+Software Engineer · Backend (Python / Django) · Riyadh, Saudi Arabia 🇸🇦
+
+Software Engineering graduate from Jouf University (2026). I build backend systems with Python and Django: JSON APIs, role-based access control, relational data models, and automated tests. Currently open to junior software engineering roles and graduate programs in Saudi Arabia.
+
+<p> <a href="https://linkedin.com/in/abdulelah-alruwaili"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:abdulelahh321@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a> <a href="https://kaggle.com/kckdfh2ks3udfhgg9"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a> <a href="https://x.com/pSWEX"><img src="https://img.shields.io/badge/X-0f1419?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> </p>
+🔨 Featured Work
+AMCIS — Accreditation Management & Continuous Improvement System
+
+Graduation project · Team lead & backend developer · Python, Django, JavaScript, SQLite, Chart.js
+
+Led a team of four through the full SDLC to deliver a Django platform that automates CLO/PLO attainment tracking and accreditation reporting (NCAAA).
+Layered backend across three Django apps (service, domain, validation, authorization), with an 18+ entity relational model and a four-state submission lifecycle.
+Role-based access control down to object level, secure file uploads, brute-force protection (Django-Axes), audit logging, and row-level locking for concurrent reviews.
+25 critical requirements covered by automated Django TestCase suites, all passing.
+E-Commerce Store
+
+Tuwaiq Academy bootcamp · Django, MySQL, Bootstrap
+
+Full-stack store covering the complete purchase flow: product catalog, cart, checkout, and printable invoices.
+
+Car Price Prediction
+
+Machine learning · Python, scikit-learn, pandas
+
+Random Forest regressor in a scikit-learn pipeline (imputation, scaling, one-hot encoding, outlier handling), reaching R² 0.93 on the held-out test set. Notebook published on Kaggle.
+
+bidi-fixer
+
+Chrome extension · JavaScript
+
+Automatically fixes scrambled mixed Arabic/English (RTL/LTR) text on web pages.
+
+🧰 Tech Stack
+<p> <img src="https://skillicons.dev/icons?i=python,django,js,java,html,css,bootstrap&theme=dark" alt="Languages and frameworks" /> </p> <p> <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,linux,git,github,postman&theme=dark" alt="Databases and tools" /> </p>
+
+Data & ML: scikit-learn · pandas · NumPy · Chart.js
+
+📜 Certifications & Training
+CCNA: Introduction to Networks — Cisco Networking Academy (2026)
+Ethical Hacker — Cisco Networking Academy (2026)
+Python Basics — University of Michigan, Coursera (2026)
+Linear Algebra for Machine Learning and Data Science — DeepLearning.AI (2025)
+Web Application Development with Django — Tuwaiq Academy (2025)
+NDG Linux Essentials — Cisco Networking Academy (2024)
